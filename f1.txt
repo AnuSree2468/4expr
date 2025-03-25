@@ -1,0 +1,1 @@
+From your command history, it seems like you didn't explicitly modify file2.txt after running git add file2.txt. However, there is a possible reason why Git detected additional changes.
